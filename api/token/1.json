@@ -1,6 +1,6 @@
 {
-    "name": "Thor's hammer",
-    "description": "Mjlnir, the legendary hammer of the Norse god of thunder.",
+    "name": "B002",
+    "description": "B002 der.",
     "image": "https://easy4docker.github.io/images/smartContract.png",
-    "strength": 20
+    "attributes":[]
 }
