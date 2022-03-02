@@ -1,6 +1,5 @@
 {
     "name": "B002",
     "description": "B002 der.",
-    "image": "https://easy4docker.github.io/images/smartContract.png",
-    "attributes":[]
+    "image": "https://easy4docker.github.io/images/smartContract.png"
 }
