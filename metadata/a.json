@@ -4,6 +4,14 @@
   "image": "https://easy4docker.github.io/images/smartContract.png",
   "attributes": [
     {
+      "trait_type": "Level", 
+      "value": 5
+    }, 
+    {
+      "trait_type": "Stamina", 
+      "value": 1.4
+    },
+    {
       "trait_type": "Base", 
       "value": "Starfish"
     }, 
@@ -14,14 +22,7 @@
     {
       "trait_type": "Mouth", 
       "value": "Surprised"
-    }, 
-    {
-      "trait_type": "Level", 
-      "value": 5
-    }, 
-    {
-      "trait_type": "Stamina", 
-      "value": 1.4
     }
+
   ]
 }
