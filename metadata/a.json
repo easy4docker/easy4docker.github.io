@@ -9,7 +9,7 @@
     }, 
     {
       "trait_type": "Stamina",
-      "description": "Identifies the asset to which this token represents"
+      "description": "Identifies the asset to which this token represents",
       "value": "1.4"
     },
     {
