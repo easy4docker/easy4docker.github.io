@@ -1,7 +1,7 @@
 {
-  "name": "PUG",
-  "description": "An adorable PUG pup!",
-  "image": "ipfs://QmSsYRx3LpDAb1GZQm7zZ1AuHZjfbPkD6J7s9r41xu1mf8?filename=pug.png",
+  "name": "Mapo TouFu",
+  "description": "Grandma Lee Mapo TouFu!",
+  "image": "https://easy4docker.github.io/images/smartContract.png",
   "attributes": [
     {
       "trait_type": "cuteness",
