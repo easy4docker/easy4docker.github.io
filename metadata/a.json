@@ -1,7 +1,7 @@
 {
   "name": "Mapo TouFu",
   "description": "Grandma Lee Mapo TouFu!",
-  "image": "https://easy4docker.github.io/images/smartContract.png",
+  "image": "https://easy4docker.github.io/images/dish.jpeg",
   "attributes": [
     {
       "trait_type": "Level", 
