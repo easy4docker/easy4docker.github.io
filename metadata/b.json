@@ -1,28 +1,16 @@
 {
-  "name": "Mapo TouFu",
-  "description": "Grandma Lee Mapo TouFu!",
+  "name": "Salad",
+  "description": "Grandma Salad!",
   "image": "https://easy4docker.github.io/images/dish1.jpeg",
   "attributes": [
     {
       "trait_type": "Level", 
-      "value": 5
+      "value": 1
     }, 
     {
       "trait_type": "Stamina",
       "description": "Identifies the asset to which this token represents",
-      "value": "1.4"
-    },
-    {
-      "trait_type": "Base", 
-      "value": "Starfish"
-    }, 
-    {
-      "trait_type": "Eyes", 
-      "value": "Big"
-    }, 
-    {
-      "trait_type": "Mouth", 
-      "value": "Surprised"
+      "value": "1.1"
     }
 
   ]
