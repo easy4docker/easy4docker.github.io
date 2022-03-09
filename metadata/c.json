@@ -1,0 +1,17 @@
+{
+  "name": "Salad",
+  "description": "Grandma Salad 2",
+  "image": "https://easy4docker.github.io/images/dish2.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Level", 
+      "value": 2
+    }, 
+    {
+      "trait_type": "Stamina",
+      "description": "Identifies the asset to which this token represents",
+      "value": "1.2"
+    }
+
+  ]
+}
