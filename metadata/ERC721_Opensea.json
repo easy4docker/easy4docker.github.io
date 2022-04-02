@@ -51,7 +51,7 @@ For example, here are the attributes for one of the OpenSea creatures.
 //Mapo TouFu metadata eample
 {
   "name": "TOFU AND MUSHROOM",
-  "description": "dry tofu one, mushroom 100g, jalapeno 2",
+  "description": "Simple but delicious dish. Made with firm tofu one piece, mushroom 100g, jalapeno 2",
   "image": "https://easy4docker.github.io/images/dish.jpeg",
   "external_url":"https://www.dishfu.com/pubRecipes/P-0/JPfc773cde0cac5babce73728b663f98d2_BYBGRu_1639875142573-QmakF8GQci5EbgRLqRL7knqbipGfMVtWC8CeC7ozuB6T6C"
   "attributes": [
@@ -68,4 +68,15 @@ For example, here are the attributes for one of the OpenSea creatures.
       "value": "Salt"
     },  
   ]
+}
+/*
+https://docs.opensea.io/docs/contract-level-metadata
+*/
+{
+  "name": "TOFU AND MUSHROOM",
+  "description": "Simple but delicious dish. Made with firm tofu one piece, mushroom 100g, jalapeno 2",
+  "image": "https://openseacreatures.io/image.png",
+  "external_link": "https://www.dishfu.com/pubRecipes/P-0/JPfc773cde0cac5babce73728b663f98d2_BYBGRu_1639875142573-QmakF8GQci5EbgRLqRL7knqbipGfMVtWC8CeC7ozuB6T6C",
+  "seller_fee_basis_points": 100, # Indicates a 1% seller fee.
+  "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721" # Where seller fees will be paid to.
 }
