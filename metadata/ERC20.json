@@ -1,0 +1,23 @@
+/*
+Interface for the optional metadata functions from the ERC20 standard.
+Available since v4.1:
+FUNCTIONS
+name()
+symbol()
+decimals()
+IERC20:
+totalSupply()
+balanceOf(account)
+transfer(to, amount)
+allowance(owner, spender)
+approve(spender, amount)
+transferFrom(from, to, amount)
+*/
+{
+  "name": "my token",
+  "description": "We are giving out our token for free if you create NFT under our collection. Once any NFT under our collection is sold, a percentage of proceeds will go to the collection pool. Every owner will share the funding pool. Go make some fun and some earning too!"
+  "image":""
+  "symbol": "USTP",
+  "decimals": 2,
+  "totalSupply": 1000
+}
