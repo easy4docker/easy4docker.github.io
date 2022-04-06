@@ -1,0 +1,37 @@
+{
+  "name": "SPICY CHINESE FRIED CHICKEN Recipe",
+  "description": "Chinese Chong Qing fried chicken is one of the most popular dishes in Sichuan China. The dish is easy to make and goes great with rice!",
+  "image": "https://www.dishfu.com/pubRecipes/category/chinese-poultry-spicy",
+  "external_url":"https://youtu.be/KpP5_wueCvk"
+  "attributes": [
+    {
+      "trait_type": "Cusines", 
+      "value": "Chinese"
+    }, 
+    {
+      "trait_type": "Material", 
+      "value": "Poultry"
+    },
+    {
+      "trait_type": "Taste", 
+      "value": "Spicy"
+    },  
+  ]
+}
+
+/*
+Ingredients
+1.5 pound chicken (dark meat)
+1 scallion
+1 Cup chinese peppercorn
+1 star anise
+1 cup peanuts(optional)
+3 cups red dry chillies
+1/2 head of garlic
+8 slices of ginger
+Corn starch enough to coat
+1 tsp sugar
+salt to taste
+1 tsp chinese five spice
+3 tbsp Chinese cooking wine
+*/
