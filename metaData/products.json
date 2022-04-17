@@ -5,8 +5,8 @@
         "subtitle"      : "Invest via Mainnet",
         "description"   : "Create Post Office under Ethereum mainnet. Each office has 1,000,000 UNST and 1000 placeholder projects.",
         "links"          : [ 
-            {"caption": "Create", "Link" : "/postOffice/create"},
-            {"caption": "View", "Link" : "/postOffice/list"}
+            {"caption": "Create", "link" : "/postOffice/create"},
+            {"caption": "View", "link" : "/postOffice/list"}
         ]    
     },
     {
@@ -15,8 +15,8 @@
         "subtitle"      : "Orgnize via Subnet",
         "description"   : "Initialize project via subnet. Define your project properties such as name, description, url, external link, etc.",
         "links"          : [ 
-            {"caption": "Create", "Link" : "/project"},
-            {"caption": "View", "Link" : "/project/list"}
+            {"caption": "Create", "link" : "/project"},
+            {"caption": "View", "link" : "/project/list"}
         ]  
     },
     {
@@ -25,8 +25,8 @@
         "subtitle"      : "Create via Subnet",
         "description"   : "Create NFT via subnet. Define your NFT properties. Upon creation of one NFT, the creator will earn one UNST.",
         "links"          : [ 
-            {"caption": "Create", "Link" : "/nft/create"},
-            {"caption": "View", "Link" : "/nft/list"}
+            {"caption": "Create", "link" : "/nft/create"},
+            {"caption": "View", "link" : "/nft/list"}
         ]  
     },
     {
@@ -35,7 +35,7 @@
         "subtitle"      : "Cross Chain Agent",
         "description"   : "This agent is responsible for communicating between mainnet and subnet, and complete the transaction across nets.",
         "links"          : [ 
-            {"caption": "Create", "Link" : "/agent"}
+            {"caption": "Create", "link" : "/agent"}
         ]  
     },
     {
@@ -44,7 +44,7 @@
         "subtitle"      : "Open sea, Mintable",
         "description"   : "List post office to marketplace, promote NFTs, and start to earn!",
         "links"          : [ 
-            {"caption": "Find NFT", "Link" : "/marketing/search"}
+            {"caption": "Find NFT", "link" : "/marketing/search"}
         ]  
     }
 ]
