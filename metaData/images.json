@@ -10,6 +10,18 @@
     "project" : {
         "ipfs" : "QmaoduAa2oG33mH4L68xBFQYqjDYmL2hu3oqPXqatGaaRZ",
         "link" : "https://bafybeifzgybilwokyuiftzeyel2sy6spydgxwxw3kl74opbp2b2qrmaznq.ipfs.infura-ipfs.io/"
+    },
+    "iconNFT" : {
+        "ipfs" : "QmVDeVyDnCmXCFQTbgbc5TW8VGjMtfCVDg7bUhwRhjADNr",
+        "link" : "https://bafybeidgg2azpnaq6ok65jpacj4h2fte2a5rmpqsztrlnwnacfinmypovm.ipfs.infura-ipfs.io/"
+    },
+    "agentRobot" : {
+        "ipfs" : "QmR7BU5T2xyUPcyaFMRXBdCYjYUmhjKa7RpUThyp8Md5hi",
+        "link" : "https://bafybeibjd62taqrrwzzpxm5szaoqjua3smzj5oyye5d5ngiouonm6otjze.ipfs.infura-ipfs.io/"
+    },
+    "marketing" : {
+        "ipfs" : "QmPrTtRy19dDMTXiVBV69TV9JtXPiSsUYehhFQfk7QwQd1",
+        "link" : "https://bafybeiawp3p65ntx4wdthfmqfzfoh6a3pv3kan256652j2vfigvaixpxyq.ipfs.infura-ipfs.io/"
     }
 }
 
