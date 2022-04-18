@@ -4,7 +4,7 @@
         "title"         : "Post Office",
         "subtitle"      : "Invest via Mainnet",
         "description"   : "Create Post Office under Ethereum mainnet. Each office has 1,000,000 UNST and 1000 placeholder projects.",
-        "link"         : {"caption": "Create", "link" : "/postOffice/create"}
+        "link"         : {"caption": "Create", "link" : "/postOffices"}
     },
     {
         "style"         : "warning",
