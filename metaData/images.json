@@ -1,6 +1,15 @@
 {
-    "postOffice" : {
+    "postBox" : {
         "ipfs":"QmWXtftu9UY9AnqsvZ3zQeobog8vidDqoqapfbY3fKbHmh",
         "link":"https://bafybeidzx2v4u33w3phqhx2leqzckcoyyd4imgosjcki4fe7pbs7aknksa.ipfs.infura-ipfs.io/"
+    },
+    "postOffice" : {
+        "ipfs":"QmX6s42ovn7jQHFMkeZ1zHDSD7cgL7Y6PSVxsZkYn5vnNY",
+        "link":"https://bafybeiecgebak7egilzdtezfqlbctbfkaqlcdm5ap4k6vy6ctg3aoibfdu.ipfs.infura-ipfs.io/"
+    },
+    "project" : {
+        "ipfs" : "QmaoduAa2oG33mH4L68xBFQYqjDYmL2hu3oqPXqatGaaRZ",
+        "link" : "https://bafybeifzgybilwokyuiftzeyel2sy6spydgxwxw3kl74opbp2b2qrmaznq.ipfs.infura-ipfs.io/"
     }
 }
+
