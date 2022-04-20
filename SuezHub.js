@@ -31,6 +31,11 @@ export default (props)=> {
     getName();
   }, [ props.address ]);
 
+  const nameAddress = (name, addr)=><span className="float-left border border-secondary p-0 pl-2 pr-2 pb-2 rounded">
+      <Container className="text-left p-0"><span className="m-0 bg-secondary text-light rounded" style={{fontSize:'0.6rem'}}>{show(address, 6)} </span></Container>
+      <Container className="text-left p-0"><b>{!name?'':showString(name,16)}</b></Container>
+    </span>
+
   const itemIcon = ()=> <Container className="p-1 m-0 float-left text-center" 
   style={{ width: '10%', minWidth:'8rem',height:'4rem' }}>
       <Card border="warning"  className={`rounded hover-shadow p-0`}  
@@ -66,13 +71,14 @@ const postOfficeMainCard = ()=> !address ? props.address :
       <Container fluid={true} className={'m-0 mb-3 p-3 alert-secondary rounded hover-shadow'}
         onClick={()=>history.push('/postOffice/' + address)}
       >
-      <span className="mr-3">
+      <span className="mr-3 float-left">
         <ImageLib v="postOffice" setting={{ className: 'border border-secondary shade',  
         style: {width:'3rem', borderRadius: '50%'}}} />
       </span>
-      <span className="mr-3">
-        <b>{suezInfo.name}</b><span className="ml-2 bg-secondary text-light rounded" style={{fontSize:'0.6rem'}}>{show(address, 5)} </span>
+      <span className="p-0 m-0 float-left">
+        {nameAddress(suezInfo.name, address)}
       </span>
+      <Container className="clearfix"/>
     </Container>;
 
   return  viewType === 'mainCard'? postOfficeMainCard() : viewType === 'itemIcon'? itemIcon() : postOfficeCard();
