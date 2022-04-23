@@ -1,7 +1,6 @@
 When creating post office, do:
-if connected blockchain is not mainnet (in this case is Rinkby), please raise a warning: "Creating Post Office can only be done under mainnet account - Rinkby. 
+if connected blockchain is not mainnet (in this case is Rinkeby), please raise a warning: "Creating Post Office can only be done under mainnet account - Rinkeby. 
 Please switch to Rinkby and try again." 
 
 When creating project, do:
-if connected blockchain is not subnet (in this case is not Rinkby), please raise a warning: "To save your gas fee, please connect to subnet account for project creation. 
-We do not support project creation under mainnet."
+if connected blockchain is not subnet (in this case is not Rinkeby), please raise a warning: "To save your gas fee, please connect to subnet account for project creation. We do not support project creation under mainnet - Rinkeby."
